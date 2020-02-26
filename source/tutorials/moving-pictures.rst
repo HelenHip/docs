@@ -1,4 +1,4 @@
-"Moving Pictures" tutorial
+"Moving Pictures" tutorial for APS6625
 ==========================
 
 .. note:: This guide assumes you have installed QIIME 2 using one of the procedures in the :doc:`install documents <../install/index>`.
