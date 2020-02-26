@@ -1,14 +1,12 @@
-"Moving Pictures" tutorial
+"Moving Pictures" tutorial for APS 6625
 ==========================
 
-.. note:: This guide assumes you have installed QIIME 2 using one of the procedures in the :doc:`install documents <../install/index>`.
 
 .. note:: This guide uses QIIME 2-specific terminology, please see the :doc:`glossary <../glossary>` for more details.
 
 In this tutorial you'll use QIIME 2 to perform an analysis of human microbiome samples from two individuals at four body sites at five timepoints, the first of which immediately followed antibiotic usage. A study based on these samples was originally published in `Caporaso et al. (2011)`_. The data used in this tutorial were sequenced on an Illumina HiSeq using the `Earth Microbiome Project`_ hypervariable region 4 (V4) 16S rRNA sequencing protocol.
 
-.. qiime1-users::
-   These are the same data that are used in the QIIME 1 `Illumina Overview Tutorial`_.
+
 
 Before beginning this tutorial, create a new directory and change to that directory.
 
